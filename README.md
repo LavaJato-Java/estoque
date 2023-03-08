@@ -1,17 +1,17 @@
 # LavaJato Application - Microserviço Estoque
 
-Microserviço que salva os dados do produtos no estoque. 
+Microserviço que salva os dados do produto no estoque. 
 
 Ele recebe uma Request com todos os dados do produto e salva no banco de dados. 
 
 
 Microserviço usando: 
 
-. usando serviço de mensageria.
+. serviço de mensageria.
 
-. usando Redis para Cache
+. Redis para Cache
 
-. usando Padrão Saga Coreografado para conexão com os outros microserviços.
+. Padrão Saga Coreografado para conexão com os outros microserviços.
 
 ## Endpoints
 
