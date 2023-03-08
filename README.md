@@ -1,4 +1,4 @@
-# LavaJata Application - Microservice Estoque
+# LavaJato Application - Microserviço Estoque
 
 Microserviço que salva os dados do produtos no estoque. 
 
